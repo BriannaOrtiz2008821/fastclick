@@ -15,3 +15,5 @@ EXAMPLE is one of the folder in this repository:
  * router: A router between 4 hosts TODO
 
 The examples use the click configuration in the conf/EXAMPLE/ folders, just tweaking a few variables through the command line.
+
+<!-- Auto-update: 2025-10-18T13:36:29.291293 -->
